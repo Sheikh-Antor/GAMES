@@ -1,0 +1,49 @@
+.square{
+    width:100px;
+    height: 100px;
+    background:purple;
+ margin: 5px;
+ float: left;
+ border-radius: 30px;
+ 
+
+ 
+ 
+
+}
+#head{background-color:#17a2b8;
+color:black;
+ 
+border-radius: 15px;
+padding: 20px 10px;
+margin-left: -40px !important;
+}
+.displayColor{
+    background-color: green;
+    font-size: 30px !important;
+}
+ 
+.selected{
+background-color:red !important;
+ }
+
+
+ #easy{
+    background-color:green;
+     }
+
+ #hard{
+    background-color:red;
+ }
+
+ #displayColor{
+     font-size: 40px !important;
+     margin-left: -40px;
+     text-align: center !important;
+     color:lime!important
+    
+ }
+ .con{
+     background:black;
+     height: 100vh;
+ }
